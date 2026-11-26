@@ -6,9 +6,14 @@
   },
   "teachers": [
     {
-      "name": "Thầy/Cô Nguyễn Văn A",
+      "name": "Thầy/Cô Nguyễn Văn AAAAAAAAAAAAAAAAAAA",
       "photo": "",
       "desc": "Giáo viên bộ môn. Hãy cập nhật đoạn giới thiệu ngắn ở trang Quản trị."
+    },
+    {
+      "name": "Họ têndsdvsdvsdvsdvsdvsdv",
+      "photo": "",
+      "desc": ""
     }
   ],
   "place": {
